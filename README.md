@@ -183,13 +183,13 @@ Navigate to the project directory:
 cd Crack-Detection-for-Mining-Site-Inspection
 ```
 
-Run the model or testing script according to the project implementation:
+Run the model and test script according to the project implementation:
 
 ```bash
 python model.py
 ```
 
-or:
+and
 
 ```bash
 python crack_test.py
